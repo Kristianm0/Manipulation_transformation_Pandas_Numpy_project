@@ -1,4 +1,4 @@
-# Manipulation_transformation_Pandas_Numpy_project
+# Manipulation transformation Pandas Numpy project 🧑‍💻
 We will explore the functionalities of the Python libraries Numpy and Pandas by utilizing them to analyze a dataset containing metadata for the top 10,000 most popular movies on The Movie Database (TMDB) as of May 2023. The dataset comprises various information, including movie titles, release dates, runtime, genres, production companies, budget, and revenue.
 
 ### Dataset
