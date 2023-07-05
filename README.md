@@ -4,8 +4,7 @@ We will explore the functionalities of the Python libraries Numpy and Pandas by 
 ### Dataset
 
 **File**
-  
-    [popular_10000_movies_tmdb.csv](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/767306de-f8b3-4927-bbb7-22d9dcbff2ab/popular_10000_movies_tmdb.csv)
+[popular_10000_movies_tmdb.csv](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/767306de-f8b3-4927-bbb7-22d9dcbff2ab/popular_10000_movies_tmdb.csv)
     
 **Project on Google colaboratory**
-- [Project on Google Colaboratory](https://colab.research.google.com/drive/1MxlpvsrcpIHTO-LXFhIM9MUIx0G1NL-2#scrollTo=YiwPXPBFeikJ)
+[Project on Google Colaboratory](https://colab.research.google.com/drive/1MxlpvsrcpIHTO-LXFhIM9MUIx0G1NL-2#scrollTo=YiwPXPBFeikJ)
