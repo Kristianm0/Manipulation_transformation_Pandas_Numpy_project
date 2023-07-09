@@ -8,3 +8,7 @@ We will explore the functionalities of the Python libraries Numpy and Pandas by 
     
 **Project on Google colaboratory ➡️**
 [Project on Google Colaboratory](https://colab.research.google.com/drive/1MxlpvsrcpIHTO-LXFhIM9MUIx0G1NL-2#scrollTo=YiwPXPBFeikJ)
+
+
+---
+Visit my personal website at [kristianm.com](https://kristianm.com/) for more information.
